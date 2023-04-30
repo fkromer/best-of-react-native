@@ -32,4 +32,7 @@ projects:
     github_id: callstack/react-native-paper
     category: ui-frameworks
     npm_id: react-native-paper
-
+  - name: Teaset
+    github_id: rilyu/teaset
+    category: ui-frameworks
+    npm_id: teaset
