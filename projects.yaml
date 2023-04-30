@@ -52,3 +52,7 @@ projects:
     github_id: react-native-elements/react-native-elements
     category: ui-frameworks
     npm_id: react-native-elements
+  - name: UI Kitten
+    github_id: akveo/react-native-ui-kitten
+    category: ui-frameworks
+    npm_id: react-native-ui-kitten
