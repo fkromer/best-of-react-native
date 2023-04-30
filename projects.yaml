@@ -40,3 +40,7 @@ projects:
     github_id: lottie-react-native/lottie-react-native
     category: ui-frameworks
     npm_id: lottie-react-native
+  - name: Nachos UI
+    github_id: nachos-ui/nachos-ui
+    category: ui-frameworks
+    npm_id: nachos-ui
