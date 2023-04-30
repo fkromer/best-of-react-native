@@ -44,3 +44,7 @@ projects:
     github_id: nachos-ui/nachos-ui
     category: ui-frameworks
     npm_id: nachos-ui
+  - name: Shoutem UI
+    github_id: shoutem/ui
+    category: ui-frameworks
+    npm_id: @shoutem/ui
