@@ -99,6 +99,10 @@ projects:
     github_id: oblador/react-native-vector-icons
     category: components
     npm_id: react-native-vector-icons
+  - name: react-native-chart-kit
+    github_id: indiespirit/react-native-chart-kit
+    category: components
+    npm_id: react-native-chart-kit
 
   - name: Material Kit React Native
     github_id: creativetimofficial/material-kit-react-native
