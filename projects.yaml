@@ -48,3 +48,7 @@ projects:
     github_id: shoutem/ui
     category: ui-frameworks
     npm_id: @shoutem/ui
+  - name: React Native Elements
+    github_id: react-native-elements/react-native-elements
+    category: ui-frameworks
+    npm_id: react-native-elements
