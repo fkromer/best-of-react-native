@@ -30,7 +30,7 @@ projects:
   - name: react-navigation
     github_id: react-navigation/react-navigation
     category: routing
-    npm_id: @react-navigation/native
+    npm_id: "@react-navigation/native"
 
   - name: NativeBase
     github_id: GeekyAnts/NativeBase
