@@ -79,3 +79,7 @@ projects:
     github_id: react-native-maps/react-native-maps
     category: components
     npm_id: react-native-maps
+  - name: react-native-vector-icons
+    github_id: oblador/react-native-vector-icons
+    category: components
+    npm_id: react-native-vector-icons
