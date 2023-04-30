@@ -103,6 +103,10 @@ projects:
     github_id: indiespirit/react-native-chart-kit
     category: components
     npm_id: react-native-chart-kit
+  - name: react-native-charts-wrapper
+    github_id: wuxudong/react-native-charts-wrapper
+    category: components
+    npm_id: react-native-charts-wrapper
 
   - name: Material Kit React Native
     github_id: creativetimofficial/material-kit-react-native
