@@ -21,6 +21,10 @@ projects:
   - name: Expo
     github_id: expo/expo
     category: app-frameworks
+  - name: Ignite
+    github_id: infinitered/ignite
+    category: app-frameworks
+
   - name: react-navigation
     github_id: react-navigation/react-navigation
     category: routing
