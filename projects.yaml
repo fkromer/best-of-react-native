@@ -56,3 +56,7 @@ projects:
     github_id: akveo/react-native-ui-kitten
     category: ui-frameworks
     npm_id: react-native-ui-kitten
+  - name: RNUI
+    github_id: wix/react-native-ui-lib
+    category: ui-frameworks
+    npm_id: react-native-ui-lib
