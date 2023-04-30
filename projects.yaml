@@ -28,3 +28,8 @@ projects:
     github_id: GeekyAnts/NativeBase
     category: ui-frameworks
     npm_id: native-base
+  - name: React Native Paper
+    github_id: callstack/react-native-paper
+    category: ui-frameworks
+    npm_id: react-native-paper
+
