@@ -3,6 +3,8 @@ configuration:
   markdown_footer_file: "config/footer.md"
 
 categories:
+  - category: "app-frameworks"
+    title: "App Frameworks"
   - category: "routing"
     title: "Routing"
 
@@ -12,7 +14,10 @@ labels:
   #   description: "Best-of list with Python projects"
 
 projects:
+  - name: Expo
+    github_id: expo/expo
+    category: app-frameworks
   - name: react-navigation
-    github_id: https://github.com/react-navigation/react-navigation
+    github_id: react-navigation/react-navigation
     category: routing
     npm_id: @react-navigation/native
