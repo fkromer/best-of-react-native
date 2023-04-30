@@ -76,6 +76,10 @@ projects:
     github_id: xotahal/react-native-material-ui
     category: ui-frameworks
     npm_id: react-native-material-ui
+  - name: RNMK
+    github_id: xinthink/react-native-material-kit
+    category: ui-frameworks
+    npm_id: react-native-material-kit
 
   - name: Gifted Chat
     github_id: FaridSafi/react-native-gifted-chat
