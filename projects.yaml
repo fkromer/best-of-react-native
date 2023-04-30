@@ -107,6 +107,10 @@ projects:
     github_id: wuxudong/react-native-charts-wrapper
     category: components
     npm_id: react-native-charts-wrapper
+  - name: react-native-svg-charts
+    github_id: JesperLekland/react-native-svg-charts
+    category: components
+    npm_id: react-native-svg-charts
 
   - name: Material Kit React Native
     github_id: creativetimofficial/material-kit-react-native
