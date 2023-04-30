@@ -7,6 +7,8 @@ categories:
     title: "App Frameworks"
   - category: "routing"
     title: "Routing"
+  - category: "ui-frameworks"
+    title: "UI Frameworks & Libraries"
 
 labels:
   # - label: "python"
@@ -21,3 +23,8 @@ projects:
     github_id: react-navigation/react-navigation
     category: routing
     npm_id: @react-navigation/native
+
+  - name: NativeBase
+    github_id: GeekyAnts/NativeBase
+    category: ui-frameworks
+    npm_id: native-base
