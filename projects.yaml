@@ -9,6 +9,8 @@ categories:
     title: "Routing"
   - category: "ui-frameworks"
     title: "UI Frameworks & Libraries"
+  - category: "components"
+    title: "Components"
 
 labels:
   # - label: "python"
@@ -60,3 +62,12 @@ projects:
     github_id: wix/react-native-ui-lib
     category: ui-frameworks
     npm_id: react-native-ui-lib
+
+  - name: Gifted Chat
+    github_id: FaridSafi/react-native-gifted-chat
+    category: components
+    npm_id: react-native-gifted-chat
+  - name: react-native-maps
+    github_id: react-native-maps/react-native-maps
+    category: components
+    npm_id: react-native-maps
