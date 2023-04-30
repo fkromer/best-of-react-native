@@ -36,3 +36,7 @@ projects:
     github_id: rilyu/teaset
     category: ui-frameworks
     npm_id: teaset
+  - name: Lottie React Native
+    github_id: lottie-react-native/lottie-react-native
+    category: ui-frameworks
+    npm_id: lottie-react-native
