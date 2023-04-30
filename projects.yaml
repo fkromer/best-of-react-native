@@ -11,6 +11,8 @@ categories:
     title: "UI Frameworks & Libraries"
   - category: "components"
     title: "Components"
+  - category: "templates"
+    title: "Templates"
 
 labels:
   # - label: "python"
@@ -87,3 +89,8 @@ projects:
     github_id: oblador/react-native-vector-icons
     category: components
     npm_id: react-native-vector-icons
+
+  - name: Material Kit React Native
+    github_id: creativetimofficial/material-kit-react-native
+    category: templates
+    npm_id: material-kit-react-native
