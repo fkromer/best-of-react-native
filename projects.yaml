@@ -66,6 +66,10 @@ projects:
     github_id: wix/react-native-ui-lib
     category: ui-frameworks
     npm_id: react-native-ui-lib
+  - name: Galio
+    github_id: galio-org/galio
+    category: ui-frameworks
+    npm_id: galio
 
   - name: Gifted Chat
     github_id: FaridSafi/react-native-gifted-chat
