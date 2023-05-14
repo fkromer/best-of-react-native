@@ -17,6 +17,14 @@ categories:
     title: "UI Frameworks & Libraries"
   - category: "components"
     title: "Components"
+  - category: "map-components"
+    title: "Map Components"
+  - category: "chat-components"
+    title: "Chat" Components"
+  - category: "icon-components"
+    title: "Icon Components"
+  - category: "chart-components"
+    title: "Chart Components"
   - category: "templates"
     title: "Templates"
 
@@ -89,28 +97,67 @@ projects:
 
   - name: Gifted Chat
     github_id: FaridSafi/react-native-gifted-chat
-    category: components
+    category: chat-components
     npm_id: react-native-gifted-chat
+
   - name: react-native-maps
     github_id: react-native-maps/react-native-maps
-    category: components
+    category: map-components
     npm_id: react-native-maps
+
   - name: react-native-vector-icons
     github_id: oblador/react-native-vector-icons
-    category: components
+    category: icon-components
     npm_id: react-native-vector-icons
+
   - name: react-native-chart-kit
     github_id: indiespirit/react-native-chart-kit
-    category: components
+    category: chart-components
     npm_id: react-native-chart-kit
   - name: react-native-charts-wrapper
     github_id: wuxudong/react-native-charts-wrapper
-    category: components
+    category: chart-components
     npm_id: react-native-charts-wrapper
   - name: react-native-svg-charts
     github_id: JesperLekland/react-native-svg-charts
-    category: components
+    category: chart-components
     npm_id: react-native-svg-charts
+  - name: victory-native
+    github_id: FormidableLabs/victory
+    category: chart-components
+    npm_id: victory-native
+  - name: react-native-graph
+    github_id: margelo/react-native-graph
+    category: chart-components
+    npm_id: react-native-graph
+  - name: react-native-animated-charts
+    github_id: rainbow-me/react-native-animated-charts
+    category: chart-components
+    npm_id: "@rainbow-me/animated-charts"
+  - name: react-native-echarts
+    github_id: wuba/react-native-echarts
+    category: chart-components
+    npm_id: "@wuba/react-native-echarts"
+  - name: react-native-highcharts
+    github_id: TradingPal/react-native-highcharts
+    category: chart-components
+    npm_id: react-native-highcharts
+  - name: react-native-skia-charts
+    github_id: vladanyes/react-native-skia-charts
+    category: chart-components
+    npm_id: react-native-skia-charts
+  - name: react-native-charts
+    github_id: chartiful/react-native-charts
+    category: chart-components
+    npm_id: "@chartiful/react-native-chart-builder"
+  - name: react-native-charts-wrapper
+    github_id: wuxudong/react-native-charts-wrapper
+    category: chart-components
+    npm_id: react-native-charts-wrapper
+  - name: react-native-pathjs-charts
+    github_id: capitalone/react-native-pathjs-charts
+    category: chart-components
+    npm_id: react-native-pathjs-charts
 
   - name: Material Kit React Native
     github_id: creativetimofficial/material-kit-react-native
