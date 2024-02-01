@@ -53,9 +53,9 @@ This curated list contains 29 awesome open-source projects with a total of 240K 
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/expo/expo">Expo</a></b> (🥇41 ·  ⭐ 26K) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/expo/expo">Expo</a></b> (🥇41 ·  ⭐ 27K) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/expo/expo) (👨‍💻 1.3K · 🔀 4.4K · 📦 840K · 📋 13K - 3% open · ⏱️ 25.01.2024):
+- [GitHub](https://github.com/expo/expo) (👨‍💻 1.3K · 🔀 4.4K · 📦 840K · 📋 13K - 3% open · ⏱️ 01.02.2024):
 
 	```
 	git clone https://github.com/expo/expo
@@ -63,7 +63,7 @@ This curated list contains 29 awesome open-source projects with a total of 240K 
 </details>
 <details><summary><b><a href="https://github.com/infinitered/ignite">Ignite</a></b> (🥉30 ·  ⭐ 16K) - Infinite Reds battle-tested React Native project boilerplate, along with a CLI, component/model generators, and more!. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/infinitered/ignite) (👨‍💻 210 · 🔀 1.3K · 📦 3 · 📋 1.3K - 1% open · ⏱️ 23.01.2024):
+- [GitHub](https://github.com/infinitered/ignite) (👨‍💻 210 · 🔀 1.3K · 📦 3 · 📋 1.3K - 1% open · ⏱️ 26.01.2024):
 
 	```
 	git clone https://github.com/infinitered/ignite
@@ -75,14 +75,14 @@ This curated list contains 29 awesome open-source projects with a total of 240K 
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/react-navigation/react-navigation">react-navigation</a></b> (🥇42 ·  ⭐ 23K) - Routing and navigation for your React Native apps. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/react-navigation/react-navigation">react-navigation</a></b> (🥇43 ·  ⭐ 23K · 📈) - Routing and navigation for your React Native apps. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/react-navigation/react-navigation) (👨‍💻 270 · 🔀 4.8K · 📦 850K · 📋 9.3K - 7% open · ⏱️ 23.01.2024):
+- [GitHub](https://github.com/react-navigation/react-navigation) (👨‍💻 270 · 🔀 4.8K · 📦 860K · 📋 9.3K - 7% open · ⏱️ 01.02.2024):
 
 	```
 	git clone https://github.com/react-navigation/react-navigation
 	```
-- [npm](https://www.npmjs.com/package/@react-navigation/native) (📥 2.9M / month):
+- [npm](https://www.npmjs.com/package/@react-navigation/native) (📥 3.5M / month):
 	```
 	npm install @react-navigation/native
 	```
@@ -95,48 +95,48 @@ This curated list contains 29 awesome open-source projects with a total of 240K 
 
 <details><summary><b><a href="https://github.com/callstack/react-native-paper">React Native Paper</a></b> (🥇42 ·  ⭐ 12K) - Material Design for React Native (Android & iOS). <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/callstack/react-native-paper) (👨‍💻 320 · 🔀 2K · 📦 180K · 📋 2.3K - 5% open · ⏱️ 24.01.2024):
+- [GitHub](https://github.com/callstack/react-native-paper) (👨‍💻 320 · 🔀 2K · 📦 180K · 📋 2.4K - 5% open · ⏱️ 24.01.2024):
 
 	```
 	git clone https://github.com/callstack/react-native-paper
 	```
-- [npm](https://www.npmjs.com/package/react-native-paper) (📥 670K / month):
+- [npm](https://www.npmjs.com/package/react-native-paper) (📥 780K / month):
 	```
 	npm install react-native-paper
 	```
 </details>
 <details><summary><b><a href="https://github.com/lottie-react-native/lottie-react-native">Lottie React Native</a></b> (🥇39 ·  ⭐ 16K) - Lottie wrapper for React Native. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/lottie-react-native/lottie-react-native) (👨‍💻 140 · 🔀 1.7K · 📦 110K · 📋 790 - 2% open · ⏱️ 24.01.2024):
+- [GitHub](https://github.com/lottie-react-native/lottie-react-native) (👨‍💻 140 · 🔀 1.7K · 📦 110K · 📋 790 - 3% open · ⏱️ 28.01.2024):
 
 	```
 	git clone https://github.com/lottie-react-native/lottie-react-native
 	```
-- [npm](https://www.npmjs.com/package/lottie-react-native) (📥 1.1M / month):
+- [npm](https://www.npmjs.com/package/lottie-react-native) (📥 1.3M / month):
 	```
 	npm install lottie-react-native
 	```
 </details>
 <details><summary><b><a href="https://github.com/wix/react-native-ui-lib">RNUI</a></b> (🥈35 ·  ⭐ 6K) - UI Components Library for React Native. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/wix/react-native-ui-lib) (👨‍💻 150 · 🔀 670 · 📦 3.7K · 📋 630 - 9% open · ⏱️ 25.01.2024):
+- [GitHub](https://github.com/wix/react-native-ui-lib) (👨‍💻 150 · 🔀 670 · 📦 3.7K · 📋 630 - 9% open · ⏱️ 31.01.2024):
 
 	```
 	git clone https://github.com/wix/react-native-ui-lib
 	```
-- [npm](https://www.npmjs.com/package/react-native-ui-lib) (📥 240K / month):
+- [npm](https://www.npmjs.com/package/react-native-ui-lib) (📥 290K / month):
 	```
 	npm install react-native-ui-lib
 	```
 </details>
-<details><summary><b><a href="https://github.com/react-native-elements/react-native-elements">React Native Elements</a></b> (🥈33 ·  ⭐ 24K) - Cross-Platform React Native UI Toolkit. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/react-native-elements/react-native-elements">React Native Elements</a></b> (🥈34 ·  ⭐ 24K · 📈) - Cross-Platform React Native UI Toolkit. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/react-native-elements/react-native-elements) (👨‍💻 410 · 🔀 4.5K · 📦 5 · 📋 2.1K - 3% open · ⏱️ 21.01.2024):
+- [GitHub](https://github.com/react-native-elements/react-native-elements) (👨‍💻 410 · 🔀 4.5K · 📦 5 · 📋 2.1K - 4% open · ⏱️ 29.01.2024):
 
 	```
 	git clone https://github.com/react-native-elements/react-native-elements
 	```
-- [npm](https://www.npmjs.com/package/react-native-elements) (📥 440K / month):
+- [npm](https://www.npmjs.com/package/react-native-elements) (📥 530K / month):
 	```
 	npm install react-native-elements
 	```
@@ -148,7 +148,7 @@ This curated list contains 29 awesome open-source projects with a total of 240K 
 	```
 	git clone https://github.com/GeekyAnts/NativeBase
 	```
-- [npm](https://www.npmjs.com/package/native-base) (📥 230K / month):
+- [npm](https://www.npmjs.com/package/native-base) (📥 270K / month):
 	```
 	npm install native-base
 	```
@@ -160,7 +160,7 @@ This curated list contains 29 awesome open-source projects with a total of 240K 
 	```
 	git clone https://github.com/shoutem/ui
 	```
-- [npm](https://www.npmjs.com/package/@shoutem/ui) (📥 10K / month):
+- [npm](https://www.npmjs.com/package/@shoutem/ui) (📥 12K / month):
 	```
 	npm install @shoutem/ui
 	```
@@ -172,7 +172,7 @@ This curated list contains 29 awesome open-source projects with a total of 240K 
 	```
 	git clone https://github.com/akveo/react-native-ui-kitten
 	```
-- [npm](https://www.npmjs.com/package/react-native-ui-kitten) (📥 860 / month):
+- [npm](https://www.npmjs.com/package/react-native-ui-kitten) (📥 970 / month):
 	```
 	npm install react-native-ui-kitten
 	```
@@ -184,7 +184,7 @@ This curated list contains 29 awesome open-source projects with a total of 240K 
 	```
 	git clone https://github.com/xinthink/react-native-material-kit
 	```
-- [npm](https://www.npmjs.com/package/react-native-material-kit) (📥 720 / month):
+- [npm](https://www.npmjs.com/package/react-native-material-kit) (📥 730 / month):
 	```
 	npm install react-native-material-kit
 	```
@@ -196,7 +196,7 @@ This curated list contains 29 awesome open-source projects with a total of 240K 
 	```
 	git clone https://github.com/xotahal/react-native-material-ui
 	```
-- [npm](https://www.npmjs.com/package/react-native-material-ui) (📥 2.5K / month):
+- [npm](https://www.npmjs.com/package/react-native-material-ui) (📥 2.9K / month):
 	```
 	npm install react-native-material-ui
 	```
@@ -220,7 +220,7 @@ This curated list contains 29 awesome open-source projects with a total of 240K 
 	```
 	git clone https://github.com/rilyu/teaset
 	```
-- [npm](https://www.npmjs.com/package/teaset) (📥 350 / month):
+- [npm](https://www.npmjs.com/package/teaset) (📥 280 / month):
 	```
 	npm install teaset
 	```
@@ -248,7 +248,7 @@ This curated list contains 29 awesome open-source projects with a total of 240K 
 	```
 	git clone https://github.com/react-native-maps/react-native-maps
 	```
-- [npm](https://www.npmjs.com/package/react-native-maps) (📥 810K / month):
+- [npm](https://www.npmjs.com/package/react-native-maps) (📥 980K / month):
 	```
 	npm install react-native-maps
 	```
@@ -266,7 +266,7 @@ This curated list contains 29 awesome open-source projects with a total of 240K 
 	```
 	git clone https://github.com/FaridSafi/react-native-gifted-chat
 	```
-- [npm](https://www.npmjs.com/package/react-native-gifted-chat) (📥 120K / month):
+- [npm](https://www.npmjs.com/package/react-native-gifted-chat) (📥 140K / month):
 	```
 	npm install react-native-gifted-chat
 	```
@@ -277,14 +277,14 @@ This curated list contains 29 awesome open-source projects with a total of 240K 
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/oblador/react-native-vector-icons">react-native-vector-icons</a></b> (🥇39 ·  ⭐ 17K · 📉) - Customizable Icons for React Native with support for image source and full styling. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/oblador/react-native-vector-icons">react-native-vector-icons</a></b> (🥇39 ·  ⭐ 17K) - Customizable Icons for React Native with support for image source and full styling. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/oblador/react-native-vector-icons) (👨‍💻 140 · 🔀 2.1K · 📦 550K · 📋 1.2K - 12% open · ⏱️ 14.12.2023):
+- [GitHub](https://github.com/oblador/react-native-vector-icons) (👨‍💻 140 · 🔀 2.1K · 📦 560K · 📋 1.2K - 12% open · ⏱️ 14.12.2023):
 
 	```
 	git clone https://github.com/oblador/react-native-vector-icons
 	```
-- [npm](https://www.npmjs.com/package/react-native-vector-icons) (📥 1.5M / month):
+- [npm](https://www.npmjs.com/package/react-native-vector-icons) (📥 1.8M / month):
 	```
 	npm install react-native-vector-icons
 	```
@@ -295,16 +295,28 @@ This curated list contains 29 awesome open-source projects with a total of 240K 
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/FormidableLabs/victory">victory-native</a></b> (🥇38 ·  ⭐ 11K · 📈) - A collection of composable React components for building interactive data visualizations. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/FormidableLabs/victory">victory-native</a></b> (🥇38 ·  ⭐ 11K) - A collection of composable React components for building interactive data visualizations. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/FormidableLabs/victory) (👨‍💻 230 · 🔀 500 · 📦 23K · 📋 1.8K - 14% open · ⏱️ 25.01.2024):
+- [GitHub](https://github.com/FormidableLabs/victory) (👨‍💻 230 · 🔀 500 · 📦 23K · 📋 1.8K - 15% open · ⏱️ 01.02.2024):
 
 	```
 	git clone https://github.com/FormidableLabs/victory
 	```
-- [npm](https://www.npmjs.com/package/victory-native) (📥 280K / month):
+- [npm](https://www.npmjs.com/package/victory-native) (📥 330K / month):
 	```
 	npm install victory-native
+	```
+</details>
+<details><summary><b><a href="https://github.com/wuxudong/react-native-charts-wrapper">react-native-charts-wrapper</a></b> (🥇29 ·  ⭐ 2.4K · 📈) - a react native charts wrapper (support android & iOS). <code>❗Unlicensed</code></summary>
+
+- [GitHub](https://github.com/wuxudong/react-native-charts-wrapper) (👨‍💻 56 · 🔀 600 · 📦 1.4K · 📋 860 - 21% open · ⏱️ 28.10.2023):
+
+	```
+	git clone https://github.com/wuxudong/react-native-charts-wrapper
+	```
+- [npm](https://www.npmjs.com/package/react-native-charts-wrapper) (📥 64K / month):
+	```
+	npm install react-native-charts-wrapper
 	```
 </details>
 <details><summary><b><a href="https://github.com/JesperLekland/react-native-svg-charts">react-native-svg-charts</a></b> (🥇29 ·  ⭐ 2.3K · 💤) - One library to rule all charts for React Native. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -314,7 +326,7 @@ This curated list contains 29 awesome open-source projects with a total of 240K 
 	```
 	git clone https://github.com/JesperLekland/react-native-svg-charts
 	```
-- [npm](https://www.npmjs.com/package/react-native-svg-charts) (📥 150K / month):
+- [npm](https://www.npmjs.com/package/react-native-svg-charts) (📥 170K / month):
 	```
 	npm install react-native-svg-charts
 	```
@@ -326,43 +338,31 @@ This curated list contains 29 awesome open-source projects with a total of 240K 
 	```
 	git clone https://github.com/indiespirit/react-native-chart-kit
 	```
-- [npm](https://www.npmjs.com/package/react-native-chart-kit) (📥 140K / month):
+- [npm](https://www.npmjs.com/package/react-native-chart-kit) (📥 170K / month):
 	```
 	npm install react-native-chart-kit
 	```
 </details>
-<details><summary><b><a href="https://github.com/wuxudong/react-native-charts-wrapper">react-native-charts-wrapper</a></b> (🥈28 ·  ⭐ 2.4K) - a react native charts wrapper (support android & iOS). <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/margelo/react-native-graph">react-native-graph</a></b> (🥉21 ·  ⭐ 1.7K) - Beautiful, high-performance Graphs and Charts for React Native built with Skia. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/wuxudong/react-native-charts-wrapper) (👨‍💻 56 · 🔀 600 · 📦 1.4K · 📋 860 - 21% open · ⏱️ 28.10.2023):
-
-	```
-	git clone https://github.com/wuxudong/react-native-charts-wrapper
-	```
-- [npm](https://www.npmjs.com/package/react-native-charts-wrapper) (📥 59K / month):
-	```
-	npm install react-native-charts-wrapper
-	```
-</details>
-<details><summary><b><a href="https://github.com/margelo/react-native-graph">react-native-graph</a></b> (🥉21 ·  ⭐ 1.7K · 📈) - Beautiful, high-performance Graphs and Charts for React Native built with Skia. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/margelo/react-native-graph) (👨‍💻 12 · 🔀 88 · 📦 110 · 📋 63 - 44% open · ⏱️ 01.09.2023):
+- [GitHub](https://github.com/margelo/react-native-graph) (👨‍💻 12 · 🔀 90 · 📦 110 · 📋 63 - 44% open · ⏱️ 01.09.2023):
 
 	```
 	git clone https://github.com/margelo/react-native-graph
 	```
-- [npm](https://www.npmjs.com/package/react-native-graph) (📥 5.2K / month):
+- [npm](https://www.npmjs.com/package/react-native-graph) (📥 6.4K / month):
 	```
 	npm install react-native-graph
 	```
 </details>
-<details><summary><b><a href="https://github.com/wuba/react-native-echarts">react-native-echarts</a></b> (🥉18 ·  ⭐ 590 · 📉) - React Native ECharts Library: An awesome charting library for React Native, built upon Apache ECharts and leveraging.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/wuba/react-native-echarts">react-native-echarts</a></b> (🥉18 ·  ⭐ 590) - React Native ECharts Library: An awesome charting library for React Native, built upon Apache ECharts and leveraging.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/wuba/react-native-echarts) (👨‍💻 13 · 🔀 22 · 📋 65 - 24% open · ⏱️ 11.01.2024):
+- [GitHub](https://github.com/wuba/react-native-echarts) (👨‍💻 13 · 🔀 22 · 📋 66 - 24% open · ⏱️ 11.01.2024):
 
 	```
 	git clone https://github.com/wuba/react-native-echarts
 	```
-- [npm](https://www.npmjs.com/package/@wuba/react-native-echarts) (📥 12K / month):
+- [npm](https://www.npmjs.com/package/@wuba/react-native-echarts) (📥 15K / month):
 	```
 	npm install @wuba/react-native-echarts
 	```
@@ -374,7 +374,7 @@ This curated list contains 29 awesome open-source projects with a total of 240K 
 	```
 	git clone https://github.com/rainbow-me/react-native-animated-charts
 	```
-- [npm](https://www.npmjs.com/package/@rainbow-me/animated-charts) (📥 730 / month):
+- [npm](https://www.npmjs.com/package/@rainbow-me/animated-charts) (📥 790 / month):
 	```
 	npm install @rainbow-me/animated-charts
 	```
@@ -386,7 +386,7 @@ This curated list contains 29 awesome open-source projects with a total of 240K 
 	```
 	git clone https://github.com/vladanyes/react-native-skia-charts
 	```
-- [npm](https://www.npmjs.com/package/react-native-skia-charts) (📥 52 / month):
+- [npm](https://www.npmjs.com/package/react-native-skia-charts) (📥 61 / month):
 	```
 	npm install react-native-skia-charts
 	```
@@ -402,7 +402,7 @@ This curated list contains 29 awesome open-source projects with a total of 240K 
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/creativetimofficial/material-kit-react-native">Material Kit React Native</a></b> (🥇15 ·  ⭐ 560) - Material Kit React Native. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/creativetimofficial/material-kit-react-native">Material Kit React Native</a></b> (🥇14 ·  ⭐ 560 · 📉) - Material Kit React Native. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/creativetimofficial/material-kit-react-native) (👨‍💻 9 · 🔀 740 · 📋 29 - 10% open · ⏱️ 14.08.2023):
 
